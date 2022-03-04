@@ -1,1 +1,1 @@
-# random games oyun ve hiakyeler üzerine olan siteyi bootstrap ile geliştirdik
+# random games oyun ve hikayeler üzerine olan siteyi bootstrap ile geliştirdik
