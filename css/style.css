@@ -1,0 +1,28 @@
+/* navbar-start */
+body{
+    background-image:url(../img/bck.jpg);
+}
+header{
+    /* yazi tipi değiştirildi */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    /* linklere sağdan 10 px boşluk bıraktık */
+    margin-right: 10px;  
+}
+/* navbar-finish */
+/*************************************************************************************************************************************************/
+/* content-start */
+.bg-color{
+    /* arkaplan rengi değiştirildi */
+    background-color: #E9ECEF ;
+}
+.curve{
+    /* köşeleri kavisli yaptık */
+    border-radius: 40px;
+}
+.background{
+    background-image:url(../img/bck.jpg);
+}
+/* content-finish */
